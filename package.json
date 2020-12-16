@@ -1,0 +1,21 @@
+{
+  "name": "vaadin-webjar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx parcel build src/index.js -d target/classes/META-INF/resources/webjars/cloud-ui-vaadin/0.1.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "@vaadin/vaadin-button": "^2.4.0",
+    "@vaadin/vaadin-checkbox": "^2.5.0",
+    "@vaadin/vaadin-radio-button": "^1.5.1",
+    "@vaadin/vaadin-text-field": "^2.8.2"
+  }
+}
