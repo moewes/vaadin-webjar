@@ -1,4 +1,9 @@
 import '@vaadin/vaadin-text-field';
+import '@vaadin/vaadin-text-field/vaadin-number-field.js';
+import '@vaadin/vaadin-text-field/vaadin-email-field.js';
+import '@vaadin/vaadin-text-field/vaadin-password-field.js';
+import '@vaadin/vaadin-text-field/vaadin-integer-field.js';
+import '@vaadin/vaadin-text-field/vaadin-text-area.js';
 import '@vaadin/vaadin-button';
 
 import '@vaadin/vaadin-item';
@@ -7,9 +12,12 @@ import '@vaadin/vaadin-notification';
 // Tabs
 import '@vaadin/vaadin-tabs';
 
+import '@vaadin/vaadin-details';
+
 // Layouts
 import '@vaadin/vaadin-ordered-layout';
-import '@vaadin/vaadin-form-layout';
+import '@vaadin/vaadin-form-layout/vaadin-form-layout.js';
+import '@vaadin/vaadin-form-layout/vaadin-form-item.js';
 import '@vaadin/vaadin-app-layout';
 import '@vaadin/vaadin-app-layout/vaadin-drawer-toggle.js';
 
