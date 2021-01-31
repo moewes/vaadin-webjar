@@ -5,7 +5,7 @@
 
 <groupId>net.moewes.cloud-ui</groupId>
 <artifactId>vaadin-webjar</artifactId>
-<version>0.1.0-SNAPSHOT</version>
+<version>0.2.0</version>
 <packaging>jar</packaging>
 
 <distributionManagement>
@@ -27,6 +27,7 @@
           <versionDigitToIncrement>1</versionDigitToIncrement>
           <gitFlowConfig>
             <developmentBranch>main</developmentBranch>
+            <productionBranch>main</productionBranch>
           </gitFlowConfig>
         </configuration>
       </plugin>
