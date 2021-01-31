@@ -26,7 +26,7 @@
           <pushRemote>true</pushRemote>
           <versionDigitToIncrement>1</versionDigitToIncrement>
           <gitFlowConfig>
-            <developmentBranch>master</developmentBranch>
+            <developmentBranch>main</developmentBranch>
           </gitFlowConfig>
         </configuration>
       </plugin>
