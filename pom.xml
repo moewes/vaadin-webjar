@@ -27,6 +27,7 @@
           <versionDigitToIncrement>1</versionDigitToIncrement>
           <gitFlowConfig>
             <developmentBranch>main</developmentBranch>
+            <productionBranch>main</productionBranch>
           </gitFlowConfig>
         </configuration>
       </plugin>
