@@ -17,6 +17,6 @@
     "@vaadin/vaadin-button": "^23.1.5",
     "@vaadin/vaadin-checkbox": "^23.1.5",
     "@vaadin/vaadin-radio-button": "^23.1.5",
-    "@vaadin/vaadin-text-field": "^23.1.5"
+    "@vaadin/vaadin-text-field": "^23.2.0"
   }
 }
