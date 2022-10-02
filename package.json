@@ -13,10 +13,10 @@
     "parcel-bundler": "^1.12.5"
   },
   "dependencies": {
-    "@vaadin/vaadin": "^23.2.1",
-    "@vaadin/vaadin-button": "^23.2.1",
-    "@vaadin/vaadin-checkbox": "^23.2.1",
-    "@vaadin/vaadin-radio-button": "^23.2.1",
-    "@vaadin/vaadin-text-field": "^23.2.1"
+    "@vaadin/vaadin": "^23.2.2",
+    "@vaadin/vaadin-button": "^23.2.2",
+    "@vaadin/vaadin-checkbox": "^23.2.2",
+    "@vaadin/vaadin-radio-button": "^23.2.2",
+    "@vaadin/vaadin-text-field": "^23.2.2"
   }
 }
