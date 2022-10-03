@@ -15,7 +15,7 @@
   "dependencies": {
     "@vaadin/vaadin": "^23.2.2",
     "@vaadin/vaadin-button": "^23.2.2",
-    "@vaadin/vaadin-checkbox": "^23.2.2",
+    "@vaadin/vaadin-checkbox": "^23.2.3",
     "@vaadin/vaadin-radio-button": "^23.2.2",
     "@vaadin/vaadin-text-field": "^23.2.2"
   }
