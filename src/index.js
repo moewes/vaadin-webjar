@@ -1,25 +1,26 @@
-import '@vaadin/vaadin-text-field';
-import '@vaadin/vaadin-text-field/vaadin-number-field.js';
-import '@vaadin/vaadin-text-field/vaadin-email-field.js';
-import '@vaadin/vaadin-text-field/vaadin-password-field.js';
-import '@vaadin/vaadin-text-field/vaadin-integer-field.js';
-import '@vaadin/vaadin-text-field/vaadin-text-area.js';
-import '@vaadin/vaadin-button';
+import '@vaadin/text-field/vaadin-text-field.js';
+import '@vaadin/number-field/vaadin-number-field.js';
+import '@vaadin/email-field/vaadin-email-field.js';
+import '@vaadin/password-field/vaadin-password-field.js';
+import '@vaadin/integer-field/vaadin-integer-field.js';
+import '@vaadin/text-area/vaadin-text-area.js';
+import '@vaadin/button';
 
-import '@vaadin/vaadin-item';
+import '@vaadin/item';
 
-import '@vaadin/vaadin-notification';
+import '@vaadin/notification';
 // Tabs
-import '@vaadin/vaadin-tabs';
+import '@vaadin/tabs';
 
-import '@vaadin/vaadin-details';
+import '@vaadin/details';
 
 // Layouts
-import '@vaadin/vaadin-ordered-layout';
-import '@vaadin/vaadin-form-layout/vaadin-form-layout.js';
-import '@vaadin/vaadin-form-layout/vaadin-form-item.js';
-import '@vaadin/vaadin-app-layout';
-import '@vaadin/vaadin-app-layout/vaadin-drawer-toggle.js';
+import '@vaadin/vertical-layout';
+import '@vaadin/horizontal-layout';
+import '@vaadin/form-layout/vaadin-form-layout.js';
+import '@vaadin/form-layout/vaadin-form-item.js';
+import '@vaadin/app-layout';
+import '@vaadin/app-layout/vaadin-drawer-toggle.js';
 
 // Wrapper Classes
 
