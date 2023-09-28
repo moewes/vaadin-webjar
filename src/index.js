@@ -6,6 +6,8 @@ import '@vaadin/integer-field/vaadin-integer-field.js';
 import '@vaadin/text-area/vaadin-text-area.js';
 import '@vaadin/button';
 
+import '@vaadin/checkbox';
+
 import '@vaadin/item';
 
 import '@vaadin/notification';
@@ -24,7 +26,7 @@ import '@vaadin/app-layout/vaadin-drawer-toggle.js';
 
 // Wrapper Classes
 
-class CluidUiNotificationWrapper extends HTMLElement {
+class CloudUiNotificationWrapper extends HTMLElement {
 
     get message() {
         return this.getAttribute("text");
@@ -77,4 +79,4 @@ class CluidUiNotificationWrapper extends HTMLElement {
     }
 }
 
-customElements.define('cloudui-notification-wrapper', CluidUiNotificationWrapper);
+customElements.define('cloudui-notification-wrapper', CloudUiNotificationWrapper);
