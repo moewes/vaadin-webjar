@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx parcel build src/index.js -d target/classes/META-INF/resources/webjars/cloud-ui-vaadin/0.4.1"
+    "build": "./node_modules/.bin/esbuild src/index.js --bundle --outfile=target/classes/META-INF/resources/webjars/vaadin-webjar/out.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.5"
+    "esbuild": "0.23.0"
   },
   "dependencies": {
     "@vaadin/vaadin": "^24.3.16"
